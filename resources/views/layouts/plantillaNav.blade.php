@@ -18,6 +18,8 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
+                <a href="{{route('ListadoContactos')}}"> Listado </a>
+    <a href="{{route('principal')}}"> Regresa al inicio </a>
                
                 
             </ul>
